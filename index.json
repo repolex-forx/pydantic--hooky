@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "hooky",
+  "versions": [
+    {
+      "commit": "2bd7ce0ac5d5658888806871a3db16a11150c398",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:58:21.339138+00:00"
+    }
+  ]
+}
